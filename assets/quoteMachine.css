@@ -1,0 +1,55 @@
+body {
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	background-color: #4791D2;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 5%;
+	margin-bottom: 1%;
+	font-weight: bold;
+	font-size: 3em;
+}
+
+#quoteBox {
+	background-color: white;
+}
+	
+.container-fluid {
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 0;
+	border-radius: 5px;
+}
+
+.btn {
+	background-color: #F89406;
+	margin: 15%;
+	margin-top: 5%;	
+	margin-bottom: 10%;
+}
+
+.quote {
+	opacity: 0;
+	color: #68757E;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 4%;
+	margin-bottom: 10px;
+}
+
+.author {
+	opacity: 0;
+	color: #B8BDC1;
+	margin-top: 0;
+	margin-right: 10%;
+	margin-bottom: 0;
+	font-size: 2em;
+	text-align: right;
+}
+
+.fa-twitter {
+	margin: 5%;
+	margin-top: 0;
+}
