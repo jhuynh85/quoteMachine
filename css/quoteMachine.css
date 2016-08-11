@@ -34,7 +34,7 @@ h1 {
 	opacity: 0;
 	color: #68757E;
 	font-size: 1.5em;
-	font-size: 2vmin;
+	font-size: 1.5vmax;
 	font-weight: bold;
 	margin: 4%;
 	margin-bottom: 10px;
@@ -47,7 +47,7 @@ h1 {
 	margin-right: 10%;
 	margin-bottom: 0;
 	font-size: 2em;
-	font-size: 3vmin;
+	font-size: 2vmax;
 	text-align: right;
 }
 
