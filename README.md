@@ -4,4 +4,4 @@
 1.  I can click a button to show me a new random quote.   
 2.  I can press a button to tweet out a quote.
 
-Hosted at: http://www.joseph-huynh.com/quoteMachine.html
+View: http://www.joseph-huynh.com/quoteMachine.html
